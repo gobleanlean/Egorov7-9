@@ -13,7 +13,7 @@ namespace Egorov7_9
             if (a == 1)
             {
                 
-                Console.WriteLine("Hello World!");
+                Console.WriteLine("Hhjkjklello World!");
             }
         }
     }
