@@ -6,7 +6,7 @@ namespace Egorov7_9
     {
         static void Main(string[] args)
         {
-            int a = 1;
+            int a = 10;
             {
                 Console.WriteLine("Hello World!");
             }
